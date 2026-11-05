@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Mission control",
+    "description": "A session view where the lead agent runs the whole operation, every subagent owns its own task, and you can dispatch, archive, or restore subagents at any time."
+  }
+}

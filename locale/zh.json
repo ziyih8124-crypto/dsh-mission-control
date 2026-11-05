@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "任务指挥台",
+    "description": "主 agent 统领全局、子 agent 各自完成任务的会话视图，可随时派出新子 agent，并把完成的子 agent 归档到可恢复的归档区。"
+  }
+}

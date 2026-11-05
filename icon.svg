@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Mission control">
+  <defs>
+    <linearGradient id="mc-bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f6bff"/>
+      <stop offset="1" stop-color="#1246c8"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#mc-bg)"/>
+  <circle cx="32" cy="32" r="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.38" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="10" fill="none" stroke="#ffffff" stroke-opacity="0.62" stroke-width="1.5"/>
+  <path d="M32 32 46.5 18.5" stroke="#ffffff" stroke-opacity="0.85" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="4.4" fill="#ffffff"/>
+  <circle cx="46.5" cy="18.5" r="3" fill="#7fe3b0"/>
+  <circle cx="18.5" cy="41" r="2.6" fill="#ffffff" fill-opacity="0.92"/>
+  <circle cx="40" cy="47" r="2.6" fill="#ffffff" fill-opacity="0.72"/>
+  <circle cx="17" cy="21" r="2.2" fill="#ffffff" fill-opacity="0.55"/>
+</svg>

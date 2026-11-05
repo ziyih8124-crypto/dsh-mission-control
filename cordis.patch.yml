@@ -1,0 +1,7 @@
+# Mission control: a session View over the live agent tree.
+# The Client half registers into `conversation.view`; the Host half serves the
+# auth-fenced /mission-control/api route used to dispatch and interrupt
+# subagents.
+- insert:
+    - id: mission-control
+      name: '@local/dsh-mission-control'
