@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Mission Control",
+    "zh": "任务指挥台"
+  },
+  "description": {
+    "en": "A DSH session view that runs the lead agent and its subagents as one team.",
+    "zh": "把主 agent 和子 agent 放在同一张指挥台上的 DSH 会话视图。"
+  },
+  "plugins": [
+    {
+      "name": "@local/dsh-mission-control",
+      "title": {
+        "en": "Mission Control",
+        "zh": "任务指挥台"
+      },
+      "description": {
+        "en": "Lead-agent board, live subagent cards, dispatch, interrupt, and archive/restore.",
+        "zh": "主 agent 看板、子 agent 实时卡片、派发、打断与归档/恢复。"
+      },
+      "icon": "icon.svg",
+      "author": "ziyih8124-crypto",
+      "homepage": "https://github.com/ziyih8124-crypto/dsh-mission-control",
+      "repository": {
+        "url": "https://github.com/ziyih8124-crypto/dsh-mission-control"
+      },
+      "metadata": {
+        "keywords": [
+          "dsh-plugin",
+          "mission-control",
+          "subagents",
+          "archive"
+        ]
+      },
+      "dist-tags": {
+        "latest": "1.1.0"
+      },
+      "versions": [
+        {
+          "version": "1.1.0",
+          "publishTimestamp": 1794034050,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/ziyih8124-crypto/dsh-mission-control",
+            "commit": "07d6b599435d62d2d4004e088e1f1fcc33c53e66"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1 <0.3.0"
+          }
+        }
+      ]
+    }
+  ]
+}
